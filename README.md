@@ -42,8 +42,8 @@ Unlock and use items from the in-game shop to help you progress:
 - **BOMB**: Randomly destroys 3 arrows.
 
 ## 🚀 How to Play
-1.  **Download**: Clone this repository or download the files.
-2.  **Run**: Navigate to the `dist` folder and double-click `arrowPuzzleEscapeGUI.exe`.
+1.  **Download**: download v.0.1.18.zip.
+2.  **Run**: Navigate to the `v.0.1.18` folder and double-click `arrowPuzzleEscapeGUI.exe`.
 3.  **Controls**:
     - **Left Click**: Launch an arrow.
     - **Right Click** (on arrow): Select/Deselect.
@@ -96,8 +96,9 @@ Unlock and use items from the in-game shop to help you progress:
 - **炸弹 (BOMB)**：随机摧毁 3 个箭头。
 
 ## 🚀 如何开始
-1.  **下载**：克隆本仓库或下载文件。
-2.  **运行**：进入 `dist` 文件夹，双击运行 `arrowPuzzleEscapeGUI.exe`。
+1.  **下载**：下载v.0.1.18.zip
+。
+2.  **运行**：进入 `v.0.1.18` 文件夹，双击运行 `arrowPuzzleEscapeGUI.exe`。
 3.  **操作说明**：
     - **左键点击**：发射箭头。
     - **右键点击**：选中/取消选中箭头。
