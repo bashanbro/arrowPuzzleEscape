@@ -37,8 +37,8 @@ The game features 4 distinct visual themes and extensive customization options:
 ## 🛠 Power-ups (Items)
 Unlock and use items from the in-game shop to help you progress:
 - **HINT**: Reveals a valid move.
-- **TIME**: Adds 10 seconds to the timer.
-- **FREEZE**: Pauses the timer for 10 seconds.
+- **TIME**: Adds 8 seconds to the timer.
+- **FREEZE**: Pauses the timer for 12 seconds.
 - **REVERSE**: Reverses an arrow's direction.
 - **TELEPORT**: Teleports an arrow to an empty space.
 - **COMPASS**: Shows the general escape direction.
@@ -92,8 +92,8 @@ Unlock and use items from the in-game shop to help you progress:
 ## 🛠 道具说明
 在游戏商店中解锁并使用道具来帮助通关：
 - **提示 (HINT)**：推荐并演示一步可行的操作。
-- **加时 (TIME)**：增加 10 秒游戏时间。
-- **冻结 (FREEZE)**：暂停倒计时 10 秒。
+- **加时 (TIME)**：增加 8 秒游戏时间。
+- **冻结 (FREEZE)**：暂停倒计时 12 秒。
 - **反转 (REVERSE)**：反转选中箭头的方向。
 - **传送 (TELEPORT)**：将箭头传送至空位。
 - **指南针 (COMPASS)**：辅助显示建议的逃逸方向。
