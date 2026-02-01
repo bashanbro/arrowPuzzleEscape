@@ -51,7 +51,7 @@ Unlock and use items from the in-game shop to help you progress:
     - **Menu Bar**: Access Themes, Settings, and Help.
 
 ## 📂 File Structure
-- `dist/`: Contains the game executable (`arrowPuzzleEscapeGUI.exe`) and save data (`savegame.dat`).
+- `dist/`: Contains the game executable (`arrowPuzzleEscape.exe`) and save data (`savegame.dat`).
 
 ---
 
@@ -98,7 +98,7 @@ Unlock and use items from the in-game shop to help you progress:
 ## 🚀 如何开始
 1.  **下载**：下载v.0.1.18.zip
 。
-2.  **运行**：进入 `v.0.1.18` 文件夹，双击运行 `arrowPuzzleEscapeGUI.exe`。
+2.  **运行**：进入 `v.0.1.18` 文件夹，双击运行 `arrowPuzzleEscape.exe`。
 3.  **操作说明**：
     - **左键点击**：发射箭头。
     - **右键点击**：选中/取消选中箭头。
