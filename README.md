@@ -1,5 +1,9 @@
 # Arrows Puzzle Escape / 箭头逃脱谜题
 
+<p align="center">
+  <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/%E7%82%BC%E7%8B%B1%E4%B8%BB%E9%A2%98.png" width="80%" />
+</p>
+
 **[English]** | [中文](#chinese)
 
 ## 🎮 Introduction
@@ -20,7 +24,10 @@ The game features 4 distinct visual themes and extensive customization options:
 - **Cyberpunk** (Default): A dark, neon-lit futuristic style.
 - **Minimalist Light**: A clean, bright theme for a relaxed atmosphere.
 - **Deep Ocean**: A soothing dark blue theme inspired by the sea.
-- **Monochrome**: A high-contrast black and white theme.
+
+<p align="center">
+  <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/themes_grid.png" width="45%" />
+</p>
 
 ### Settings
 - **Arrow Shapes**: Choose from over 15 shapes including Circle, Star, Heart, Cat, Dog, Car, and more!
@@ -41,6 +48,10 @@ Unlock and use items from the in-game shop to help you progress:
 - **UNDO**: Reverts the last move.
 - **BOMB**: Randomly destroys 3 arrows.
 
+<p align="center">
+  <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/%E9%81%93%E5%85%B7.png" width="45%" />
+</p>
+
 ## 🚀 How to Play
 1.  **Download**: download v.0.1.18.zip.
 2.  **Run**: Navigate to the `v.0.1.18` folder and double-click `arrowPuzzleEscapeGUI.exe`.
@@ -49,9 +60,6 @@ Unlock and use items from the in-game shop to help you progress:
     - **Right Click** (on arrow): Select/Deselect.
     - **Space**: Pause/Resume game.
     - **Menu Bar**: Access Themes, Settings, and Help.
-
-## 📂 File Structure
-- `dist/`: Contains the game executable (`arrowPuzzleEscape.exe`) and save data (`savegame.dat`).
 
 ---
 
@@ -105,5 +113,3 @@ Unlock and use items from the in-game shop to help you progress:
     - **空格键**：暂停/继续游戏。
     - **菜单栏**：访问主题切换、设置和帮助。
 
-## 📂 文件结构
-- `dist/`: 包含游戏可执行文件 (`arrowPuzzleEscapeGUI.exe`) 和存档数据 (`savegame.dat`)。
