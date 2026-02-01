@@ -26,7 +26,7 @@ The game features 4 distinct visual themes and extensive customization options:
 - **Deep Ocean**: A soothing dark blue theme inspired by the sea.
 
 <p align="center">
-  <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/themes_grid.png" width="45%" />
+  <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/themes_grid.png" width="80%" />
 </p>
 
 ### Settings
