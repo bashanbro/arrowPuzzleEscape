@@ -1,4 +1,4 @@
-# Arrows Puzzle Escape / 箭头逃脱谜题
+# Arrow Puzzle Escape / 箭头逃脱谜题
 
 <p align="center">
   <img src="https://github.com/bashanbro/arrowPuzzleEscape/raw/main/images/%E7%82%BC%E7%8B%B1%E4%B8%BB%E9%A2%98.png" width="80%" />
