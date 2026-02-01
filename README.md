@@ -30,7 +30,7 @@ The game features 4 distinct visual themes and extensive customization options:
 </p>
 
 ### Settings
-- **Arrow Shapes**: Choose from over 15 shapes including Circle, Star, Heart, Cat, Dog, Car, and more!
+- **Layout Shapes**: Choose from over 15 shapes including Circle, Star, Heart, Cat, Dog, Car, and more!
 - **View Options**: Toggle Grid Lines and Grid Points for better visibility.
 - **Audio**: Independently toggle Background Music (BGM) and Sound Effects (SFX).
 
@@ -85,7 +85,7 @@ Unlock and use items from the in-game shop to help you progress:
 - **黑白 (Monochrome)**：高对比度的黑白风格，简洁纯粹。
 
 ### 游戏设置 (Settings)
-- **箭头形状**：在设置面板中选择超过 15 种形状，包括圆形、星形、心形、猫咪、小狗、汽车等！
+- **布局形状**：在设置面板中选择超过 15 种形状，包括圆形、星形、心形、猫咪、小狗、汽车等！
 - **视图选项**：可开启/关闭网格线和网格点，辅助观察。
 - **音频控制**：独立开关背景音乐 (BGM) 和音效 (SFX)。
 
